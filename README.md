@@ -1,5 +1,9 @@
 # HumanEngine-EMG
 
+## Research at a glance
+
+**Research in progress.** HumanEngine explores causal EMG representation learning with an independently evaluated teacher. The infrastructure has undergone bounded acceptance checks; HumanEngine itself has not been scientifically trained or validated. The current teacher-validation workflow and reproduction instructions follow below.
+
 HumanEngine-EMG is a causal EMG representation research codebase. The current
 v0.1 lane contains the scientific kernel, the independent EMG teacher, exact
 checkpoint/continuation contracts, tests, frozen design records, and the
